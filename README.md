@@ -1,4 +1,4 @@
-# DCHATBOT - A charbot which focusing on chat visualization
+# DCHATBOT - A chatbot which focusing on chat visualization
 This is the final project of our group, with the course Software Engineering Methods and Practice, Fall 2020, National University of Denfense Technology.
 ### Authors:
 * Menghan Wu  ([@RebeWu](https://github.com/RebeWu))
