@@ -2,10 +2,10 @@
 This is the final project of our group, with the course Software Engineering Methods and Practice, Fall 2020, National University of Denfense Technology.
 ### Authors:
 * Menghan Wu  ([@RebeWu](https://github.com/RebeWu))
-* 
-* 
-* 
-* 
+* Hongli Zhong
+* Xiaojun Wu
+* Bo Lin
+* Xiaosai Wang
 ### Project Instructor
              Wei Dong, National University of Denfense Technology
 ### Project Objectives
